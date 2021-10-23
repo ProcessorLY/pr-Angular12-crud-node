@@ -1,0 +1,40 @@
+
+23/10/2021
+#Creando Proyecto Ejmplo
+
+Link: https://www.bezkoder.com/angular-12-node-js-express-mysql/
+
+
+continuacion : https://www.bezkoder.com/angular-12-crud-app/
+
+pagination: https://www.bezkoder.com/angular-12-pagination-ngx/
+---------------
+
+ng new Angular12Crud
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+
+---------------
+
+ng g s services/tutorial
+
+ng g c components/add-tutorial
+ng g c components/tutorial-details
+ng g c components/tutorials-list
+
+ng g class models/tutorial --type=model
+---------------
+
+Run the Angular 12 App
+
+You can run this App with command:
+> ng serve --port 8081.
+
+If the process is successful, open Browser with Url: http://localhost:8081/ and check it.
+---------------
+http://localhost:8081/
+
+---------------
+
+
+---------------
