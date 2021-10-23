@@ -1,7 +1,7 @@
 # Angular12Crud 🅰
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7. 
-Se usó Node Js Y Mysql con sequelize en la parte del Backend, full completo el repositorio 🅰.
+Se usó NodeJs 📗 Y Mysql con sequelize en la parte del Backend, full completo el repositorio 🅰.
 
 23/10/2021
 
