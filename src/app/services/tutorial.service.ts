@@ -39,4 +39,8 @@ export class TutorialService {
 	findByTitle(title: any): Observable<Tutorial[]> {
 		return this.http.get<Tutorial[]>(`${baseUrl}?title=${title}`);
 	}
+  
+  login2(user: any): Observable<any> {
+    return this.http.post("https://reqres.in/api/login", user);
+  }
 }
